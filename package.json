@@ -1,0 +1,19 @@
+{
+  "name": "lab10-authentication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randee-401-advanced-javascript/Lab10-Authentication.git"
+  },
+  "author": "Randee Orion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/randee-401-advanced-javascript/Lab10-Authentication/issues"
+  },
+  "homepage": "https://github.com/randee-401-advanced-javascript/Lab10-Authentication#readme"
+}
