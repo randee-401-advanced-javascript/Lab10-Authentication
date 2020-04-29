@@ -1,6 +1,7 @@
 'use strict';
-const server = require('./lib/server')
+const server = require('./lib/server.js')
 require('dotenv').config();
 
-//need mongodbURI to pass in as a second argument 
-server.start(process.env.PORT)
+
+
+server.start(process.env.PORT, process.env.MONGODB_URI);
